@@ -107,7 +107,7 @@ Try the agent by you self for here:[PDF RAG Assistant](https://pdf-rag-assistant
 
 1. **Clone the repository**
    ```bash
-   git clone github.com/yourusername/pdf-rag-assistant.git
+   git clone https://github.com/MostafaAlali/Telecom-RAG-Assistant.git
    cd pdf-rag-assistant
    ```
 
